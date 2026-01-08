@@ -25,6 +25,7 @@ huggingface-hub==0.24.6
 # ================================
 # Utilities
 # ================================
+torch==2.2.2+cpu
 numpy==1.26.4
 scikit-learn==1.5.1
 tiktoken==0.7.0
